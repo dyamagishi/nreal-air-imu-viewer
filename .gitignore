@@ -1,0 +1,14 @@
+# ローカル環境とPython生成物
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+/build/
+/dist/
+.DS_Store
+
+# 実機の取得データ・個体校正・ログ・検証結果
+/data/
+
+# 日誌・過去の画面・調査時に取得した参考ソース
+/local/
